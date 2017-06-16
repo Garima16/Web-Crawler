@@ -1,0 +1,23 @@
+1497589933857	geckodriver	INFO	Listening on 127.0.0.1:34521
+1497589935057	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:23746): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2045:14: 'min-height' is not a valid property name
+
+(firefox:23746): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2046:13: 'min-width' is not a valid property name
+
+(firefox:23746): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2051:13: 'min-width' is not a valid property name
+
+(/usr/lib/firefox/firefox:23810): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2045:14: 'min-height' is not a valid property name
+
+(/usr/lib/firefox/firefox:23810): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2046:13: 'min-width' is not a valid property name
+
+(/usr/lib/firefox/firefox:23810): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2051:13: 'min-width' is not a valid property name
+1497589939405	Marionette	INFO	Listening on port 45649
+1497589939553	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
